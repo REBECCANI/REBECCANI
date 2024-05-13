@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @REBECCANI
 - 👀 I’m interested in learning and improving
-- 🌱 I’m currently learning .python..
+- 🌱
 - 💞️ I’m looking to collaborate on projects and assignments...
 - 📫 How to reach me email me
 
