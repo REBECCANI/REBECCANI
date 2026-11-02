@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @REBECCANI
 - 👀 I’m interested in learning and improving
-- 💞️ I’m looking to collaborate on projects a
+- 💞️ I’m looking to collaborate on projects 
 
 
 <!---
